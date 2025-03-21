@@ -1,0 +1,4 @@
+MYSQL_HOST: mysql.devops2024.fun
+
+MYSQL_LOGIN_USER: root
+MYSQL_LOGIN_PASSWORD: ExpenseApp@1
